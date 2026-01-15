@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "- 初版发布，包含模板生成、文档拆分、文档合并、设置功能\n- 模板生成：从源文档提取第一页封面，生成标准模板文档，保留完整样式，后续文档拆分、文档合并基于模板生成\n- 文档拆分：智能识别一级标题标题，支持拖拽分组管理，按章节自动拆分大型文档\n- 文档合并：多文档顺序合并，支持拖拽排序，自动生成目录、表目录、图目录",
-  "pub_date": "2026-01-15T06:15:26.869Z",
+  "version": "1.0.1",
+  "notes": "Features\n- 新增拆分、合并、模板、系统设置功能\n- 新增自动更新功能\n\nFixes\n- 修复合并文档时候未能够合并embeddings关系资源",
+  "pub_date": "2026-01-15T09:28:38.186Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.0.0/word_1.0.0_x64_zh-CN.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV2R2WUlXRTd5SjF4VEV3aC82ZElTcUZsWllkL1RPcVZrZlQybTV5NVViZHZPekhPZkduMi9ZSU9jSlAwSVNGQTd2d1A1WnhRYTR6NktwNDliZ1pUc2hLb1hSWlQrcVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDY5MjI5CWZpbGU6d29yZF8xLjAuMV94NjRfemgtQ04ubXNpCkRzKzFrWkZONjhreVNDNHh3Z2tRblpIekNnb0JXVVlqNHNRNlJMVVpLQnRRMlFYK0VPUFAzeHd4RDh3aDJzc01Kdm1ISTRVdGNqbVpOcWZkZk9MT0JRPT0K",
+      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.0.1/word_1.0.1_x64_zh-CN.msi"
     }
   }
 }
