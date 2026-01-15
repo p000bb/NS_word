@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
   "notes": "- 初版发布，包含模板生成、文档拆分、文档合并、设置功能\n- 模板生成：从源文档提取第一页封面，生成标准模板文档，保留完整样式，后续文档拆分、文档合并基于模板生成\n- 文档拆分：智能识别一级标题标题，支持拖拽分组管理，按章节自动拆分大型文档\n- 文档合并：多文档顺序合并，支持拖拽排序，自动生成目录、表目录、图目录",
-  "pub_date": "2026-01-15T06:10:51.936Z",
+  "pub_date": "2026-01-15T06:15:26.869Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.0.0/word_0.1.0_x64_zh-CN.msi"
+      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.0.0/word_1.0.0_x64_zh-CN.msi"
     }
   }
 }
