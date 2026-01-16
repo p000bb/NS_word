@@ -11,3 +11,8 @@ Features
 
 Fixes
 - 修复合并文档时候未能够合并embeddings关系资源
+
+# 1.0.2
+Features
+- 新增说明文档按钮，点击后打开说明文档
+- 调整程序logo图标
