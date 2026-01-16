@@ -60,7 +60,7 @@ NS_word 是一款专业的 Word 文档处理工具，旨在解决大型 Word 文
 
 - [快速开始](./getting-started.md) - 了解系统要求和基本使用流程
 - [系统要求](./system-requirements.md) - 查看运行环境和文件格式要求
-- [关于 NS_word](./about/index.md) - 了解工具的背景和技术特点
+- [关于 NS_word](./about.md) - 了解工具的背景和技术特点
 
 ### 功能详解
 
