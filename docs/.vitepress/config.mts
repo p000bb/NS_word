@@ -9,6 +9,8 @@ export default defineConfig({
   description: "Word 文档处理工具 - 解决大型 Word 文档编辑困难、卡顿问题",
   lang: "zh-CN",
   head: [["link", { rel: "icon", href: "/logo.png" }]],
+  // 启用最后更新时间戳
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {
