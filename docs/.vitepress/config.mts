@@ -13,10 +13,35 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    // 配置最后更新时间为中文显示
+    lastUpdated: {
+      text: "最后更新",
+      formatOptions: {
+        dateStyle: "long",
+        timeStyle: "medium",
+      },
+    },
     logo: {
       src: "/logo.png",
-      alt: "NS_word Logo",
+      alt: "NS_word 标志",
     },
+    // 右侧目录标题
+    outline: {
+      label: "本页目录",
+    },
+    // 文档页脚导航
+    docFooter: {
+      prev: "上一页",
+      next: "下一页",
+    },
+    // 返回顶部按钮
+    returnToTopLabel: "返回顶部",
+    // 移动端侧边栏菜单标签
+    sidebarMenuLabel: "菜单",
+    // 暗黑模式切换相关
+    darkModeSwitchLabel: "切换暗黑模式",
+    lightModeSwitchTitle: "切换到亮色模式",
+    darkModeSwitchTitle: "切换到暗色模式",
     nav: [
       { text: "首页", link: "/" },
       { text: "功能指南", link: "/guide/" },
