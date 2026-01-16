@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Features\n- 新增拆分、合并、模板、系统设置功能\n- 新增自动更新功能\n\nFixes\n- 修复合并文档时候未能够合并embeddings关系资源",
-  "pub_date": "2026-01-15T09:28:38.186Z",
+  "version": "1.0.2",
+  "notes": "Features\n- 新增说明文档按钮，点击后打开说明文档\n- 调整程序logo图标",
+  "pub_date": "2026-01-16T08:58:25.883Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV2R2WUlXRTd5SjF4VEV3aC82ZElTcUZsWllkL1RPcVZrZlQybTV5NVViZHZPekhPZkduMi9ZSU9jSlAwSVNGQTd2d1A1WnhRYTR6NktwNDliZ1pUc2hLb1hSWlQrcVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDY5MjI5CWZpbGU6d29yZF8xLjAuMV94NjRfemgtQ04ubXNpCkRzKzFrWkZONjhreVNDNHh3Z2tRblpIekNnb0JXVVlqNHNRNlJMVVpLQnRRMlFYK0VPUFAzeHd4RDh3aDJzc01Kdm1ISTRVdGNqbVpOcWZkZk9MT0JRPT0K",
-      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.0.1/word_1.0.1_x64_zh-CN.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV2R2WUlXRTd5SndyblQwaUIrVkJ2MEpaSk5WSnZWR0E2WDVqb2hvUHNtNXAvNFJKTzhSUklFSlZTZXNZY3JPcWVBT3hPTDIydzJFclFjbTNYVjBIU0taeHRReFlXM3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTUzODgyCWZpbGU6d29yZF8xLjAuMl94NjRfemgtQ04ubXNpCkJDTFdrMXNWODFQN1BwbVN5THFzMW9rd2ZldDltaFQ2T1dXYXlyTlBDV1p3ZXV1MHk3OERpL2RIOXphN2xHL0FZTUY1cEdRNXc2S1M1Y01sU3pSZkNnPT0K",
+      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.0.2/word_1.0.2_x64_zh-CN.msi"
     }
   }
 }
