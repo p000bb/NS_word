@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Features\n- 新增说明文档按钮，点击后打开说明文档\n- 调整程序logo图标",
-  "pub_date": "2026-01-16T08:58:25.883Z",
+  "version": "1.0.3",
+  "notes": "Fix\n- 修复自动更新失败的bug，调整为使用浏览器下载安装包",
+  "pub_date": "2026-01-19T07:36:09.568Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV2R2WUlXRTd5SndyblQwaUIrVkJ2MEpaSk5WSnZWR0E2WDVqb2hvUHNtNXAvNFJKTzhSUklFSlZTZXNZY3JPcWVBT3hPTDIydzJFclFjbTNYVjBIU0taeHRReFlXM3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTUzODgyCWZpbGU6d29yZF8xLjAuMl94NjRfemgtQ04ubXNpCkJDTFdrMXNWODFQN1BwbVN5THFzMW9rd2ZldDltaFQ2T1dXYXlyTlBDV1p3ZXV1MHk3OERpL2RIOXphN2xHL0FZTUY1cEdRNXc2S1M1Y01sU3pSZkNnPT0K",
-      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.0.2/word_1.0.2_x64_zh-CN.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV2R2WUlXRTd5SjhaV01NMitGSlV0bE5tbUlyVi9tNHBVbm9LbzVaU3laeUYzTGYwVVdXSXQyUzNMeXFkV3B0TWdsZGxleklhcjNRSVlGdWZUL0xCRDFLcEdnUlI2dHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4ODA4MDkzCWZpbGU6d29yZF8xLjAuM194NjRfemgtQ04ubXNpCjczblI0Z0QrOU10Qm9vZnZ2S3BmY09qV2tEWFpzbzh4d1Ezc29CWGpnbUN1NjhQQ0t4emg2ODdOcUZvMzkxSGZLcnp4T0pncXpCMytWZmcvNmZzNUJ3PT0K",
+      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.0.3/word_1.0.3_x64_zh-CN.msi"
     }
   }
 }
