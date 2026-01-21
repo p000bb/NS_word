@@ -5,6 +5,7 @@ export default defineConfig({
   title: "NS_word",
   // 根据部署环境动态设置 base 路径
   // GitHub Pages 使用仓库名路径，Vercel 使用根路径
+  // @ts-ignore
   base: process.env.GITHUB_PAGES === "true" ? "/NS_word/" : "/",
   description: "Word 文档处理工具 - 解决大型 Word 文档编辑困难、卡顿问题",
   lang: "zh-CN",

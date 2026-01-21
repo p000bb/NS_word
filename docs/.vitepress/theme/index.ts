@@ -2,6 +2,7 @@ import DefaultTheme from "vitepress/theme";
 import type { Theme } from "vitepress";
 import ImageViewerP from "@miletorix/vitepress-image-viewer";
 import "@miletorix/vitepress-image-viewer/style.css";
+import "./custom.css";
 
 export default {
   extends: DefaultTheme,
