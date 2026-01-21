@@ -57,3 +57,6 @@ coverage/
 *.local
 .cache
 .temp
+
+CHANGELOG.md
+latest.json
