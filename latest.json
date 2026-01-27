@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Features\n- 新增拆分设置：是否生成分组信息文件\n- 新增合并设置：是否生成目录、表目录、图目录\n\nFixes\n- 修复合并文档时候未更新新的关系ID、未能够合并所有媒体文，此问题会导致部分图片无法预览",
-  "pub_date": "2026-01-21T10:09:53.919Z",
+  "version": "1.1.2",
+  "notes": "Fixes\n- 修复合并文档的编码系统，目前生成的合并文档会完全使用模板文档的编码系统，此问题会导致生成的合并文档的编码系统不正确",
+  "pub_date": "2026-01-27T09:43:16.955Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.1.0/word_1.1.0_x64_zh-CN.msi"
+      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.1.2/word_1.1.2_x64_zh-CN.msi"
     }
   }
 }
