@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "notes": "Fixes\n- 修复合并文档的编码系统，目前生成的合并文档会完全使用模板文档的编码系统，此问题会导致生成的合并文档的编码系统不正确",
-  "pub_date": "2026-01-23T10:33:14.409Z",
+  "pub_date": "2026-01-27T09:43:16.955Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV2R2WUlXRTd5SnhhTGxYSk5MZWx2NHlGOXVIeEEzUGx4NnpRSzJ0Y1pTUk1mVWxnUEo4SlYvRFRTbHpuMC9nZXhEZTlTbkxNMUVLd2Q0NlA1UzFSQTNreTlDZlVPM0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MTY0MzMzCWZpbGU6d29yZF8xLjEuMV94NjRfemgtQ04ubXNpCkhVZGlMZWxvR2pQbVUrclE1OEF1Y1pZZzYrWnlOTWoweGk4TjBhZ3lYTmZTQ0dRb1JNMWNScFF0NkNDRm1QdjRKSUp6UlBkdFYyT2tMYzExSTJ0bkJRPT0K",
-      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.1.1/word_1.1.1_x64_zh-CN.msi"
+      "signature": "",
+      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.1.2/word_1.1.2_x64_zh-CN.msi"
     }
   }
 }
