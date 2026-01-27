@@ -6,6 +6,10 @@
 
 合并文档功能可以将多个 Word 文档根据模板文档的样式按照指定顺序合并成一个完整的文档。合并完成后，系统会自动生成目录、表目录、图目录，支持中英文两种语言模式。
 
+::: info 技术实现
+合并子文档功能通过调用 [DocxMerge](https://github.com/jamessantiago/DocxMerge) 程序执行。DocxMerge 是一个简单的命令行工具，用于按顺序合并多个 Word 文档。
+:::
+
 ## 使用步骤
 
 ### 1. 选择模板文件
@@ -165,3 +169,4 @@ TOC \h \z \c "Figure"
 
 - [模板生成](./template-generation.md) - 生成合并时使用的模板
 - [拆分文档](./document-split.md) - 将文档拆分成多个小文档
+- [DocxMerge](https://github.com/jamessantiago/DocxMerge) - 合并文档功能使用的底层工具
