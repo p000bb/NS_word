@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Fixes\n- 修复合并文档的编码系统，目前生成的合并文档会完全使用模板文档的编码系统，此问题会导致生成的合并文档的编码系统不正确",
-  "pub_date": "2026-01-27T09:43:16.955Z",
+  "version": "1.2.0",
+  "notes": "Features\n- 新增导出 PDF 功能，支持导出 DOCX 文件为 PDF 文件",
+  "pub_date": "2026-02-04T10:24:42.486Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.1.2/word_1.1.2_x64_zh-CN.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV2R2WUlXRTd5SjY1Ry8yMW5GM0l4ZmlTakNNV01rSU1mT0VBU0ZYWlp2ZHl0NllqeVpUWUtKZy91cXZqOUhRZ3VGb0ZjODBDdDRwTkJWaHExeGtGMGl6a21VOEdHcHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMjAwNTgxCWZpbGU6d29yZF8xLjIuMF94NjRfemgtQ04ubXNpCnhaYTB2Y21IRld5d1ZHMmpFMzB1Y1MyMHZVVmVJaXhkWlUvRTRQRzk0Wi93NGFmeVlMMFRFMmx2UFFESDJlVm1zMzYyaFpTQm9DNVJmS1A4QTZzN0JnPT0K",
+      "url": "https://gh-proxy.com/https://github.com/p000bb/NS_word/releases/download/v1.2.0/word_1.2.0_x64_zh-CN.msi"
     }
   }
 }
