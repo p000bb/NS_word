@@ -43,6 +43,16 @@ NS_word 是一款专业的 Word 文档处理工具，旨在解决大型 Word 文
 
 👉 [查看详细说明](./details/document-merge.md)
 
+### 📄 导出 PDF
+
+将 Word 文档导出为 PDF 格式，支持高清输出和页面布局调整。
+
+**主要特点**：
+- 支持配置PDF导出配置
+- 实时显示处理状态和进度
+
+👉 [查看详细说明](./details/export-pdf.md)
+
 ### ⚙️ 系统设置
 
 管理系统更新、通知和任务完成后的行为配置，自定义应用程序的使用体验。
@@ -67,6 +77,7 @@ NS_word 是一款专业的 Word 文档处理工具，旨在解决大型 Word 文
 - [模板生成](./details/template-generation.md) - 从源文档生成模板文档
 - [拆分文档](./details/document-split.md) - 将大型文档按章节拆分
 - [合并文档](./details/document-merge.md) - 将多个文档合并为一个
+- [导出 PDF](./details/export-pdf.md) - 将 Word 文档导出为 PDF 格式
 - [系统设置](./details/system-setting.md) - 管理系统配置选项
 
 ## 核心优势

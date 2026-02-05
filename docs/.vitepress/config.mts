@@ -74,6 +74,7 @@ export default defineConfig({
             { text: "模板生成", link: "/guide/details/template-generation" },
             { text: "拆分文档", link: "/guide/details/document-split" },
             { text: "合并文档", link: "/guide/details/document-merge" },
+            { text: "导出 PDF", link: "/guide/details/export-pdf" },
             { text: "系统设置", link: "/guide/details/system-setting" },
           ],
         },

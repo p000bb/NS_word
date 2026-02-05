@@ -75,3 +75,4 @@
 
 - [拆分文档](./document-split.md) - 使用模板进行文档拆分
 - [合并文档](./document-merge.md) - 使用模板进行文档合并
+- [导出 PDF](./export-pdf.md) - 将 Word 文档导出为 PDF 格式
