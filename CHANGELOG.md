@@ -40,3 +40,7 @@ Fixes
 # 1.2.0
 Features
 - 新增导出 PDF 功能，支持导出 DOCX 文件为 PDF 文件
+
+# 1.2.1
+Features
+- 新增PDF设置功能，支持设置导出 PDF 的选项
